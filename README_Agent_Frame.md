@@ -9,3 +9,4 @@ github_link:
 ### 3.Hermes Agent
 github_link: 
 -- https://github.com/NousResearch/hermes-agent
+-- https://github.com/NousResearch/hermes-agent-self-evolution
